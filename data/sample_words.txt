@@ -1,0 +1,10 @@
+python
+ai
+machine
+learning
+automation
+data
+science
+robot
+vision
+neural
